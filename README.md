@@ -15,7 +15,7 @@ We will provide some of the scripts we used to gather sensor data from the ego v
 
 ![unnamed](https://user-images.githubusercontent.com/82351282/224574923-d3706120-0712-49c7-a6a3-776d05095432.jpg)
 
-https://github.com/open-mmlab has all documentation for how to use mmdetection, but I will upload the one python script I used to use object detection on output screenshots from CARLA.
+https://github.com/open-mmlab has all documentation for how to use mmdetection, but I will upload the python script I used to generate object detection on output screenshots from CARLA.
 
 
 
