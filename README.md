@@ -1,3 +1,3 @@
-TEST
-# EcoCAR
+ ###  ECOCAR
+### University of California Riverside
 
