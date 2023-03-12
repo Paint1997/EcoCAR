@@ -1,3 +1,7 @@
+# This script will output the object detection on a chosen image
+# define your image in line 6 below
+
+
 from mmdet.apis import init_detector, inference_detector
 img = 'demo/Carla_Test.jpg'
 
